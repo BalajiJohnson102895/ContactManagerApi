@@ -9,7 +9,7 @@
     "Parameters": [
       {
         "Name": "request",
-        "Type": "LoginRequest",
+        "Type": "ContactManager.Api.DTO.LoginRequest",
         "IsRequired": true
       }
     ],

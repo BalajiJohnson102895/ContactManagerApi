@@ -21,12 +21,6 @@ C:\Users\balaj\ContactManager\ContactManager.Api\obj\Debug\net8.0\scopedcss\bund
 C:\Users\balaj\ContactManager\ContactManager.Api\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\balaj\ContactManager\ContactManager.Api\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\balaj\ContactManager\ContactManager.Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\balaj\ContactManager\ContactManager.Api\obj\Debug\net8.0\staticwebassets\msbuild.ContactManager.Api.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\balaj\ContactManager\ContactManager.Api\obj\Debug\net8.0\staticwebassets\msbuild.ContactManager.Api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-C:\Users\balaj\ContactManager\ContactManager.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.ContactManager.Api.props
-C:\Users\balaj\ContactManager\ContactManager.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ContactManager.Api.props
-C:\Users\balaj\ContactManager\ContactManager.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ContactManager.Api.props
-C:\Users\balaj\ContactManager\ContactManager.Api\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Users\balaj\ContactManager\ContactManager.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\balaj\ContactManager\ContactManager.Api\obj\Debug\net8.0\ContactM.4738D094.Up2Date
 C:\Users\balaj\ContactManager\ContactManager.Api\obj\Debug\net8.0\ContactManager.Api.dll
@@ -146,3 +140,9 @@ C:\Users\balaj\ContactManager\ContactManager.Api\bin\Debug\net8.0\runtimes\win\l
 C:\Users\balaj\ContactManager\ContactManager.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\balaj\ContactManager\ContactManager.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\balaj\ContactManager\ContactManager.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\balaj\ContactManager\ContactManager.Api\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\balaj\ContactManager\ContactManager.Api\obj\Debug\net8.0\ContactManager.Api.sourcelink.json
+C:\Users\balaj\ContactManager\ContactManager.Api\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\balaj\ContactManager\ContactManager.Api\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\balaj\ContactManager\ContactManager.Api\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\balaj\ContactManager\ContactManager.Api\obj\Debug\net8.0\staticwebassets.build.json.cache
